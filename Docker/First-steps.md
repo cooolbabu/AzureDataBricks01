@@ -12,12 +12,12 @@
     - BrezyWeather App API to test API interfaces
 
 - To create a docker network
-    '''
+    ```
         docker network create brezy-network
         docker network ls
 
 - Run the container
-    '''
+    ```
         docker run -d \
             -p 8080:80 \
             --name brezyweather-app \
