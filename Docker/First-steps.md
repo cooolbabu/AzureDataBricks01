@@ -12,12 +12,12 @@
     - BrezyWeather App API to test API interfaces
 
 - To create a docker network
-    '''
+    ```
         docker network create brezy-network
         docker network ls
 
 - Run the container
-    '''
+    ```
         docker run -d \
             -p 8080:80 \
             --name brezyweather-app \
@@ -30,10 +30,10 @@
             --network=brezy-network \
             --name=brezyweather-db \
             mcr.microsoft.com/mssql/server:2022-latest
-    '''
+
 
 - Enter the bash shell of the container, check connection to database
-    '''
+    ```
         docker exec -it brezyweather-db /bin/bash
         /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P Password@123
         SELECT name FROM sys.databases
@@ -45,7 +45,7 @@
 - curl http://localhost:8080/weather | json_pp
 
 - Cleanup - elete containers and images
-    '''
+    ```
         docker container rm -f $(docker container ls -a -q)
         docker image rm -f $(docker image ls -a -q)
         docker network rm brezy-network
