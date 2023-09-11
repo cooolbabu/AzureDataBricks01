@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/coool/Documents/UdemyDataBricks/MFLow-GT1/mlruns/0/0b66c803a12c497d90fed83701244427/artifacts
+end_time: 1694385565680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b66c803a12c497d90fed83701244427
+run_name: ambitious-foal-365
+run_uuid: 0b66c803a12c497d90fed83701244427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694385529785
+status: 3
+tags: []
+user_id: coool

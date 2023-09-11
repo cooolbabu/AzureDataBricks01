@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1694389709704
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1694389754583
+name: Model_t1
+run_id: 0b66c803a12c497d90fed83701244427
+run_link: ''
+source: file:///C:/Users/coool/Documents/UdemyDataBricks/MFLow-GT1/mlruns/0/0b66c803a12c497d90fed83701244427/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

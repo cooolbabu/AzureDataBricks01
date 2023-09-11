@@ -51,5 +51,11 @@
         docker network rm brezy-network
         docker system df
 
+- MLFlow
+    '''
+        docker run -d --name mlflow-container -e TZ=UTC -p 5000:5000 -p 5002:5002 ubuntu/mlflow:2.1.1_1.0-22.04
+
+        
+
 
     

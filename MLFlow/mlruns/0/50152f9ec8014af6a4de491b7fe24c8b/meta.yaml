@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/coool/Documents/UdemyDataBricks/MLFlow/mlruns/0/50152f9ec8014af6a4de491b7fe24c8b/artifacts
+end_time: 1694355568911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50152f9ec8014af6a4de491b7fe24c8b
+run_name: charming-stoat-89
+run_uuid: 50152f9ec8014af6a4de491b7fe24c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694355539516
+status: 3
+tags: []
+user_id: coool

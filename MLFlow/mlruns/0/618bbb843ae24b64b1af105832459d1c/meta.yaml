@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/coool/Documents/UdemyDataBricks/MLFlow/mlruns/0/618bbb843ae24b64b1af105832459d1c/artifacts
+end_time: 1694382756600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 618bbb843ae24b64b1af105832459d1c
+run_name: sedate-shoat-187
+run_uuid: 618bbb843ae24b64b1af105832459d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694382742120
+status: 4
+tags: []
+user_id: coool

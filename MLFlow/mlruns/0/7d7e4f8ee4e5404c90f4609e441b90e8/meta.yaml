@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/coool/Documents/UdemyDataBricks/MLFlow/mlruns/0/7d7e4f8ee4e5404c90f4609e441b90e8/artifacts
+end_time: 1694368550472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d7e4f8ee4e5404c90f4609e441b90e8
+run_name: burly-grub-938
+run_uuid: 7d7e4f8ee4e5404c90f4609e441b90e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694368504831
+status: 4
+tags: []
+user_id: coool

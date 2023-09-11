@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/coool/Documents/UdemyDataBricks/MLFlow/mlruns/0/014acc5e254448feb9fe14784c5fae6d/artifacts
+end_time: 1694384109312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 014acc5e254448feb9fe14784c5fae6d
+run_name: useful-kite-7
+run_uuid: 014acc5e254448feb9fe14784c5fae6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694384074778
+status: 3
+tags: []
+user_id: coool
